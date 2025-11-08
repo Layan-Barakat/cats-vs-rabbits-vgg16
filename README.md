@@ -46,7 +46,7 @@ python predict_single.py --img test-images\my_photo.jpg
 The trained model file is large, so it is not in this repo.
 
 Download `final.keras` from this link:  
-[ADD-YOUR-LINK-HERE]
+[https://github.com/Layan-Barakat/cats-vs-rabbits-vgg16/releases/download/1.0/final.keras]
 
 Place it at:
 ```
