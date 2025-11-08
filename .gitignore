@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Model outputs
+outputs/
+Cats-VS-Rabbits_Output/
+*.keras
+*.h5
+*.ckpt*
+*.tfrecord
+
+# Temporary files
+*.log
